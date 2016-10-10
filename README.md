@@ -6,9 +6,9 @@ pipeline used in paper:
 
 ### upstream
 
-the main script is *upstream.py*
-
 VDJ assignement, cdr3 extraction
+
+the main script is *upstream.py*
 
 ### downstrean
 
