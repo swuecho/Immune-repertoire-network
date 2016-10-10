@@ -1,0 +1,8 @@
+{
+    "count_cutoff": 1, 
+    "dbname": "tcr", 
+    "distance_cutoff": 0, 
+    "length_cutoff": 8, 
+    "method": "hamming", 
+    "patient": "56514_a"
+}
