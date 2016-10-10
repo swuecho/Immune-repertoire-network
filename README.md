@@ -8,7 +8,7 @@ VDJ assignement, cdr3 extraction
 
 network generation based on vj, cdr3
 
-the paremeters are in  _config.json _
+the paremeters are in  config.json 
 
 
 
