@@ -6,13 +6,17 @@ pipeline used in paper:
 
 ### upstream
 
+the main script is *upstream.py*
+
 VDJ assignement, cdr3 extraction
 
 ### downstrean
 
 network generation based on vj, cdr3
 
-the paremeters are in  config.json 
+the main script is *network_bcr.sh*
+
+the paremeters are in  *config.json* 
 
 
 
