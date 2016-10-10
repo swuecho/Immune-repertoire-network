@@ -14,9 +14,7 @@ the main script is *upstream.py*
 
 network generation based on vj, cdr3
 
-the main script is *network_bcr.sh*
-
-the paremeters are in  *config.json* 
+the main script is *network_bcr.sh*, paremeters are in  *config.json* 
 
 
 
