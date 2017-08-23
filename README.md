@@ -2,7 +2,7 @@
 
 pipeline used in paper:
 
-*Multiple sclerosis activity in treatment naïve patients is accompanied by B cell recruitment and activation in the CNS compartment*
+*Multiple sclerosis activity in treatment naïve patients is accompanied by B cell recruitment and activation in the CNS compartment* (in submission)
 
 ### upstream
 
