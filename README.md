@@ -30,5 +30,5 @@ the main script is *network_bcr.sh*, paremeters are in  *config.json*
 
 #### others
 
-Other softwares or programs might used in furtur analysis. Check individual paper for details.
+Other softwares or programs might be used in further analysis. Check individual paper for details.
 
