@@ -14,7 +14,7 @@ JCI insight 2 (22)
 
 ### upstream
 
-#### the upstream is shared by all projects
+#### the upstream is shared by all projects using this pipeline
 
 VDJ assignement, cdr3 extraction
 
@@ -31,5 +31,4 @@ the main script is *network_bcr.sh*, paremeters are in  *config.json*
 #### others
 
 Other softwares or programs might used in furtur analysis. Check individual paper for details.
-
 
