@@ -1,6 +1,6 @@
 # Immune-repertoire-network
 
-pipeline used in paper:
+Papers using this pipeline:
 
 Longitudinally persistent cerebrospinal fluid B cells can resist treatment in multiple sclerosis
 AL Greenfield, R Dandekar, A Ramesh, EL Eggers, H Wu, S Laurent, ...
@@ -14,15 +14,22 @@ JCI insight 2 (22)
 
 ### upstream
 
+#### the upstream is shared by all projects
+
 VDJ assignement, cdr3 extraction
 
 the main script is *upstream.py*
 
 ### downstrean
 
+#### network analysis
+
 network generation based on vj, cdr3
 
 the main script is *network_bcr.sh*, paremeters are in  *config.json* 
 
+#### others
+
+Other softwares or programs might used in furtur analysis. Check individual paper for details.
 
 
